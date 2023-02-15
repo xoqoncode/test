@@ -1,0 +1,38 @@
+[
+    {
+       "id" : 1,
+       "name":"Fridge",
+       "price":300,
+       "image":"product1.jpg"
+    },
+    {
+        "id":2,
+        "name":"Fridge",
+        "price":400,
+        "image":"product2.jpg"
+    },
+    {
+        "id":3,
+        "name":"Fridge",
+        "price":300,
+        "image":"product3.jpg"
+    },
+    {
+        "id":4,
+        "name":"Fridge",
+        "price":300,
+        "image":"product4.jpg"
+    },
+    {
+        "id":5,
+        "name":"Fridge",
+        "price":300,
+        "image":"product5.jpg"
+    },
+    {
+        "id":6,
+        "name":"Fridge",
+        "price":300,
+        "image":"product6.jpg"
+    }
+]
